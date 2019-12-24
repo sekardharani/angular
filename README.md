@@ -11,4 +11,9 @@ Angular Front to back from dsinz technology
 2. Package.json and package-lock.json
 
    * Package.json file contain project dependencies and DEV dependencies files.
-   * Package-lock.json It stores an exact, versioned dependency tree rather than using starred versioning like package.json itself (e.g. 1.0.*).    
+   * Package-lock.json It stores an exact, versioned dependency tree rather than using starred versioning like package.json itself (e.g. 1.0.*).
+
+3. Modules
+
+   In Angular, a module is a container to group components, directives, pipes and services.
+    
