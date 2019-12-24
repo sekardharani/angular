@@ -56,6 +56,15 @@ Angular Front to back from dsinz technology
           * ngStyle
           * ng class
 
+7. Bindings
+
+    * Oneway binding 
+        * Interpolation binding ( component to view )
+        * Property binding ( component to view )
+        * Attribute binding ( component to view )
+        * Event binding ( view to component )
+    * Twoway binding
+
     
 
     
