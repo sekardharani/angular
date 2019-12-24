@@ -36,6 +36,13 @@ Angular Front to back from dsinz technology
          * Property decorator ( @Input and @Ouput )
          * Method decorator ( @HostListener )
          * Parameter decorator ( @Injectable )
+
+5. Components
+
+    * Component is piece of function which will take the responsibility for render the view. Which means angular is expecting atleast one component.
+    * Component contain logic for views, data, view design ( HTML )
+    * All components must be registered with root module
+
     
 
     
