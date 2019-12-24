@@ -49,7 +49,12 @@ Angular Front to back from dsinz technology
     * 3 types of directive available in angular
       * Components directive
       * structural directive
+          * ngfor ( Index, first, last, odd, even, trackby, group )
+          * ngif, then, else
+          * ngswitch
       * Attribute directive  
+          * ngStyle
+          * ng class
 
     
 
