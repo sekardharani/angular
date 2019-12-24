@@ -43,6 +43,14 @@ Angular Front to back from dsinz technology
     * Component contain logic for views, data, view design ( HTML )
     * All components must be registered with root module
 
+6. Directives
+
+    * Directive are elements which change the apperance, behavior of the DOM elements
+    * 3 types of directive available in angular
+      * Components directive
+      * structural directive
+      * Attribute directive  
+
     
 
     
