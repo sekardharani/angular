@@ -10,8 +10,5 @@ export class AppComponent {
   constructor(){
 
   }
-  @HostListener('click', ['$event'])
-  onhostclick(event:Event){
-    alert('Hello')
-  }
+  
 }

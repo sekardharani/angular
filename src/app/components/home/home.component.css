@@ -1,0 +1,6 @@
+:host{
+    background-color: aqua;
+}
+.list-group li{
+    cursor: pointer;
+}
